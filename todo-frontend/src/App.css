@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  margin: auto;
+  margin-top: 50px;
+  height: 150px;
+  justify-content: space-around;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+  width: 100%;
+  text-align: center;
+}
